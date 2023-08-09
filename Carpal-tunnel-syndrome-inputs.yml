@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/carpal-tunnel-syndrome-release---primary.py
+inputModule3:
+  class: File
+  path: python/carpal-tunnel-syndrome---primary.py
+inputModule4:
+  class: File
+  path: python/carpal-tunnel-syndrome-injection---primary.py
+inputModule5:
+  class: File
+  path: python/carpal---primary.py
+inputModule6:
+  class: File
+  path: python/carpal-tunnel-syndrome-procedure---primary.py
+inputModule7:
+  class: File
+  path: python/tunnel-carpal---secondary.py
+inputModule8:
+  class: File
+  path: python/carpal-tunnel-syndrome-release---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
